@@ -1,0 +1,62 @@
+{
+  "animals": [
+    "lion",
+    "tiger",
+    "elephant",
+    "giraffe",
+    "monkey",
+    "dolphin",
+    "kangaroo",
+    "penguin",
+    "koala",
+    "zebra"
+  ],
+  "fruits": [
+    "orange",
+    "watermelon",
+    "pineapple",
+    "mango",
+    "strawberry",
+    "blueberry",
+    "peach",
+    "kiwi",
+    "papaya",
+    "raspberry"
+  ],
+  "countries": [
+    "united states",
+    "canada",
+    "australia",
+    "germany",
+    "brazil",
+    "japan",
+    "france",
+    "india",
+    "mexico",
+    "italy"
+  ],
+  "sports": [
+    "soccer",
+    "basketball",
+    "tennis",
+    "baseball",
+    "volleyball",
+    "swimming",
+    "golf",
+    "rugby",
+    "hockey",
+    "cricket"
+  ],
+  "professions": [
+    "doctor",
+    "teacher",
+    "engineer",
+    "lawyer",
+    "chef",
+    "artist",
+    "pilot",
+    "scientist",
+    "police",
+    "writer"
+  ]
+}
