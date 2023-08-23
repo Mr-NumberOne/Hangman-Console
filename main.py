@@ -89,7 +89,11 @@ def hangman():
             if letter in guessed_letters:
                 display_word += letter
             else:
-                display_word += "_"
+                display_word += "#"
+
+        if attempts <= 3 or attempts == 6:
+            # The Hint is shown at the beginning, then shows up again if the player's attempts drop down to 3
+            print("Hint - Your category is :", chosen_category)
         print("Current word:", display_word)
 
         if display_word == chosen_word:
